@@ -1,0 +1,20 @@
+#logic{
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    font-size: 10px;
+    text-align: right;
+    color:aliceblue;
+    height:20px;
+}
+
+#h_Result{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: right;
+    color:aliceblue;
+    height:25px;
+}

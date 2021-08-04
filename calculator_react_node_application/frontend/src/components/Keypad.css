@@ -1,0 +1,16 @@
+.row{
+    font-size: 25;
+    font-weight: 250;
+    color: aliceblue;
+}
+
+.Keypad{
+    background-color: rgba(0, 0, 0, 0.822) ;
+}
+
+#num{
+    background-color: rgba(0, 0, 0, 0.911);
+}
+#m{
+    border: 0 black;
+}
